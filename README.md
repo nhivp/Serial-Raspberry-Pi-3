@@ -1,5 +1,10 @@
 # Using UART Serial with Raspberry Pi 3
 
+### Default serial is configured for Raspberry Pi 3
+
+* /dev/ttyS0: Serial for Pinout
+* /dev/ttyAMA0: Serial for Bluetooth
+
 ### Refer to the following step in usage:
 
 1. Connect the UART to pinout on Raspberry Pi 3 (Pin 14, 15) 
